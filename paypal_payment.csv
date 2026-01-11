@@ -1,2 +1,0 @@
-PaymentID,PaypalTransactionID,PaypalPayerID,PaypalEmail,PaymentIntent,PaymentStatus
-1,TXP001,PAYER1,payer@mail.com,sale,success

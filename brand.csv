@@ -1,4 +1,0 @@
-BrandID,CategoryID,Name,Description,CreatedAt,Images
-1,1,BrandA,descA,2025-11-28 01:12:10.695263,imgA
-2,2,BrandB,descB,2025-11-28 01:12:10.695263,imgB
-3,3,BrandC,descC,2025-11-28 01:12:10.695263,imgC

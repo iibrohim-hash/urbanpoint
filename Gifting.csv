@@ -1,4 +1,0 @@
-OfferID,UserID,GiftID,GiftDate,RecipientPhone,GiftStatus
-1,1,1,2024-11-20 10:30:00,+97450000000,Delivered
-2,2,2,2024-11-21 18:20:00,+97460000000,Pending
-3,3,3,2024-11-22 14:10:00,+97470000000,Redeemed

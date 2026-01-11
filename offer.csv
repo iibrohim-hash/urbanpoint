@@ -1,4 +1,0 @@
-OfferID,BrandID,Title,Description,OfferType,ValidFrom,ValidUntil,RenewalPeriod,IsGiftable,MaxUsesPerUserPerCycle,CreatedAt,UpdatedAt,SavingAmount,DetailsInclusions,ShareLinkForm,PostedBy,ApprovedBy
-1,1,Offer1,desc1,discount,2024-11-21,2022-07-12,30,True,2,2025-11-28 01:12:10.698143,2025-11-28 01:12:10.698144,20.5,details,link1,6,9
-2,2,Offer2,desc2,gift,2021-10-10,2025-01-14,60,False,3,2025-11-28 01:12:10.698143,2025-11-28 01:12:10.698144,10.0,details,link2,7,10
-3,3,Offer3,desc3,discount,2023-12-30,2024-10-19,90,True,1,2025-11-28 01:12:10.698143,2025-11-28 01:12:10.698144,15.75,details,link3,8,9

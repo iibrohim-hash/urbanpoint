@@ -1,5 +1,0 @@
-OutletID,BrandID,Name,LocationAddress,City,Country,PhoneNumber,Status
-1,1,OutletA1,Loc1,Doha,Qatar,111111,active
-2,1,OutletA2,Loc2,Doha,Qatar,222222,active
-3,2,OutletB1,Loc3,Doha,Qatar,333333,inactive
-4,3,OutletC1,Loc4,Doha,Qatar,444444,active

@@ -1,7 +1,7 @@
 # UrbanPoint Database System
 ## README / Execution Guide
 ## UML Conceptual Model
-![UML Conceptual Model](UML_final.png)
+![UML Conceptual Model](UML_final.pdf)
 
 ## Physical Database Model
 ![Physical Database Model](urbanPoint_2-2025-11-28_02-26.png)

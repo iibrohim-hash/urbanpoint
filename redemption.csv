@@ -1,0 +1,3 @@
+RedemptionID,OfferID,UserID,OutletID,RedemptionDate,MerchantPinEntered,Status,CreatedAt
+201,1,1,1,2025-11-28 01:12:10.700894,1234,success,2025-11-28 01:12:10.700895
+202,2,2,3,2025-11-27 01:12:10.700894,5678,success,2025-11-28 01:12:10.700896

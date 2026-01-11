@@ -1,0 +1,2 @@
+PaymentID,ApplePayTransactionID,ApplePayToken,ApplePayMerchantID,ApplePayEmail,PaymentStatus
+3,APT001,TOK123,MERCH1,apple@mail.com,success

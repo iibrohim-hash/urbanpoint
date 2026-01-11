@@ -1,11 +1,12 @@
 # UrbanPoint Database System
-## README / Execution Guide
+
 ## UML Conceptual Model
 ![UML Conceptual Model](UML_final.png)
 
 ## Physical Database Model
 ![Physical Database Model](urbanPoint.png)
 
+## README / Execution Guide
 This document provides instructions for creating, initializing, and interacting with the **UrbanPoint PostgreSQL database**, as well as running the Python programs that implement different user stories. It serves as a standalone execution guide for testing and demonstrating the system.
 
 ---

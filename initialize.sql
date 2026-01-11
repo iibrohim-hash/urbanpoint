@@ -6,34 +6,34 @@ CREATE DATABASE urbanpoint;
 \i create.sql
 
 
-\copy category     FROM 'category.csv'     CSV HEADER;
+\copy category     FROM 'datasets/category.csv'     CSV HEADER;
 \copy app_user     FROM 'app_user.csv'     CSV HEADER;
-\copy customer     FROM 'customer.csv'     CSV HEADER;
+\copy customer     FROM 'datasets/customer.csv'     CSV HEADER;
 
 
-\copy brand        FROM 'brand.csv'        CSV HEADER;
-\copy brand_admin  FROM 'brand_admin.csv'  CSV HEADER;
-\copy system_admin FROM 'system_admin.csv' CSV HEADER;
+\copy brand        FROM 'datasets/brand.csv'        CSV HEADER;
+\copy brand_admin  FROM 'datasets/brand_admin.csv'  CSV HEADER;
+\copy system_admin FROM 'datasets/system_admin.csv' CSV HEADER;
 
 
-\copy outlet       FROM 'outlet.csv'       CSV HEADER;
-\copy offer        FROM 'offer.csv'        CSV HEADER;
+\copy outlet       FROM 'datasets/outlet.csv'       CSV HEADER;
+\copy offer        FROM 'datasets/offer.csv'        CSV HEADER;
 
 
-\copy offer_outlet FROM 'Offer_Outlet.csv' CSV HEADER;
-\copy saved_offer  FROM 'saved_offer.csv'  CSV HEADER;
-\copy gifting      FROM 'Gifting.csv'      CSV HEADER;
-\copy redemption   FROM 'redemption.csv'   CSV HEADER;
+\copy offer_outlet FROM 'datasets/Offer_Outlet.csv' CSV HEADER;
+\copy saved_offer  FROM 'datasets/saved_offer.csv'  CSV HEADER;
+\copy gifting      FROM 'datasets/Gifting.csv'      CSV HEADER;
+\copy redemption   FROM 'datasets/redemption.csv'   CSV HEADER;
 
 
-\copy subscription FROM 'subscription.csv'  CSV HEADER;
-\copy payment      FROM 'payment.csv'       CSV HEADER;
+\copy subscription FROM 'datasets/subscription.csv'  CSV HEADER;
+\copy payment      FROM 'datasets/payment.csv'       CSV HEADER;
 
 
-\copy paypal_payment   FROM 'paypal_payment.csv'   CSV HEADER;
-\copy card_payment     FROM 'card_payment.csv'     CSV HEADER;
-\copy applepay_payment FROM 'applepay_payment.csv' CSV HEADER;
-\copy promo_payment    FROM 'promo_payment.csv'    CSV HEADER;
+\copy paypal_payment   FROM 'datasets/paypal_payment.csv'   CSV HEADER;
+\copy card_payment     FROM 'datasets/card_payment.csv'     CSV HEADER;
+\copy applepay_payment FROM 'datasets/applepay_payment.csv' CSV HEADER;
+\copy promo_payment    FROM 'datasets/promo_payment.csv'    CSV HEADER;
 
 
 \echo UrbanPoint data load completed successfully
